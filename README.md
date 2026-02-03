@@ -36,33 +36,33 @@ The website is fully responsive and works seamlessly on:
 ---
 ## Project Files
 1. assets/
-icons
-images
+- **icons
+- **images
 
 2. css/
-index.css
-services.css
-service-marketing.css
-service-social.css
-service-ads.css
-service-websites.css
-service-seo.css
-about.css
-contact.css
+- **index.css
+- **services.css
+- **service-marketing.css
+- **service-social.css
+- **service-ads.css
+- **service-websites.css
+- **service-seo.css
+- **about.css
+- **contact.css
 
 3. js/
-app.js
+- **app.js
 
 4. HTML Pages
-index.html
-services.html
-service-marketing.html
-service-social.html
-service-ads.html
-service-websites.html
-service-seo.html
-about.html
-contact.html
+- **index.html**
+- **services.html**
+- **service-marketing.html**
+- **service-social.html**
+- **service-ads.html**
+- **service-websites.html**
+- **service-seo.html**
+- **about.html**
+- **contact.html**
 
 ---
 

@@ -35,9 +35,9 @@ The website is fully responsive and works seamlessly on:
 
 ---
 ## Project Files
-1. assets/
-- **icons
-- **images
+1. **assets/**
+- icons
+- images
 
 2. css/
 - **index.css

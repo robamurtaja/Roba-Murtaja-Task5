@@ -5,11 +5,11 @@ This project is a fully responsive business services platform built using **HTML
 
 It represents Ruwad Platform, a digital solutions company offering:
 
-- **Digital Marketing
-- **Social Media Management
-- **Advertising Campaign Management
-- **Website Development
-- **SEO Services
+- **Digital Marketing** 
+- **Social Media Management** 
+- **Advertising Campaign Management** 
+- **Website Development** 
+- **SEO Services** 
 
 The website presents services in a modern, clean, and visually engaging layout with interactive UI elements and smooth responsiveness across all devices.
 

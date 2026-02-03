@@ -17,15 +17,15 @@ The website presents services in a modern, clean, and visually engaging layout w
 ## Project Pages
 The website includes the following pages:
 
-- **Home Page (index.html) – Introduction, highlights, services preview
-- **Services Page (services.html) – Main services overview
-- **Marketing Service Page – Digital Marketing details
-- **Social Media Service Page – Social Media Management
-- **Advertising Campaigns Page – Ads Management
-- **Website Development Page – Website Creation Service
-- **SEO Service Page – Search Engine Optimization
-- **About Page (about.html) – Company introduction
-- **Contact Page (contact.html) – Contact form + information
+- **Home Page (index.html)**  – Introduction, highlights, services preview
+- **Services Page (services.html)**  – Main services overview
+- **Marketing Service Page**  – Digital Marketing details
+- **Social Media Service Page**  – Social Media Management
+- **Advertising Campaigns Page**  – Ads Management
+- **Website Development Page** – Website Creation Service
+- **SEO Service Page**  – Search Engine Optimization
+- **About Page (about.html)**  – Company introduction
+- **Contact Page (contact.html)**  – Contact form + information
 
 The website is fully responsive and works seamlessly on:
 
